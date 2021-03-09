@@ -1,0 +1,7 @@
+first question: "how to make a hidden directory and how to show it on command line"
+answer1-1: We can create a hidden file by add "." at the beginning of the name of file. 
+to show the list of hidden file: we can use ls -a
+question2: how to create multiple nested directory
+answer2-1: we can use "mkdir -p parentfolder/child1/chide2/child3" etc
+question3: how to append two messages "first message" and "second mesage" to a file in two rows withou use entering command:
+we can use 'echo "first message" >> CLI.txt' and  'echo "second message" >> CLI.txt' .
